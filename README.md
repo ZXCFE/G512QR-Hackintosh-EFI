@@ -1,0 +1,1 @@
+# G512QR-Hackintosh-EFI
